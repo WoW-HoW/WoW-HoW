@@ -16,15 +16,15 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/WoW-how/wow-hOW/blob/master/assets/1936.gif">
 
 ### - Learning :
-- ✨ Tensorflow
-- ✨ Neural Style Transfer
-- ✨ C/C++
+- ✨ ReactJS
+- ✨ NodeJS
+- ✨ Tableau
 
 ### - Hobbies : 
 - ✨ Gaming
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Football
+- ✨ Competetive Programming
+- ✨ Badminton 
 
 </br>
 </br>
@@ -99,4 +99,4 @@ If you want to reach out to me about anything, be it some repo or just to game t
   </a>
   </p>
   
- <p>Most of the readme is inspired from <a href="https://github.com/Xx-Ashutosh-xX/"></p>
+ <!-- Most of the readme is inspired from https://github.com/Xx-Ashutosh-xX/ --> 
