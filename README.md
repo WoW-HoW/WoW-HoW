@@ -1,8 +1,5 @@
 # Hi 👋
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/WoW-how/wow-hOW/blob/master/assets/208593.gif">
-</div>
 
 </br>
 </br>
