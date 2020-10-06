@@ -10,7 +10,6 @@
 
 ### - I'm 21 years old Competetive Programming & Full-Stack Development Enthusiast from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/WoW-how/wow-hOW/blob/master/assets/1936.gif">
 
 ### - Learning :
 - ✨ ReactJS
