@@ -61,7 +61,6 @@ yet to be updated :(
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/WoW-how/wow-hOW/blob/master/assets/93195.gif">
 
 
 If you want to reach out to me about anything, be it some repo or just to game together just ping me 😉.
