@@ -1,15 +1,9 @@
 
-
-# Contact Me :
-
 <p>
  </br>
 
 <a href="https://www.linkedin.com/in/aditya-chopra-562363142/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/WoW-how/wow-hOW/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
 </a>
 <a href="https://www.reddit.com/user/WoW-HoW">
   <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/WoW-how/wow-hOW/blob/master/assets/icons/reddit.png" />
